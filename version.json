@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/lonelybakka-dotcom/lasercalc-updates/releases/download/v1.0.0/LaserCalc.exe",
+  "changelog": "Первая версия",
+  "materials": {
+    "Нержавеющая сталь": [
+      {"w": 1000, "h": 2000, "price": 12000},
+      {"w": 1250, "h": 2500, "price": 18500},
+      {"w": 1500, "h": 3000, "price": 26000}
+    ],
+    "Конструкционная сталь": [
+      {"w": 1250, "h": 2500, "price": 0},
+      {"w": 1500, "h": 3000, "price": 0}
+    ]
+  }
+}
